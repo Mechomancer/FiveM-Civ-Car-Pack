@@ -19,3 +19,6 @@
 - [R3tr0Ananas](https://github.com/R3tr0Ananas)
   - Created SQL
   - Contributed requested vehicles femo issues
+
+- [MechoMancer](https://github.com/Mechomancer)
+  - Created vehicles.lua addon or QB-Core guys copy and paste 
