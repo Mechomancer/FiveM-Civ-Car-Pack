@@ -1,3 +1,7 @@
+Mechomancer Added in framework Files a complete list of the cars to add to your vehicles.lua for this pack. 
+Check prices shops and stuff before saving. 
+
+
 # FiveM Civilian Car Pack
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
